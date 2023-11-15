@@ -14,7 +14,7 @@
       "src": "/(.*)",
       "dest": "server.js",
       "methods": ["GET", "POST", "PUT","OPTIONS"],
-      "header": {
+      "headers": {
         "Access-Control-Allow-Origin": "*"
       }
     }
