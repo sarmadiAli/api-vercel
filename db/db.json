@@ -1,19 +1,45 @@
 {
-    "posts": [
+  "profile": {
+    "name": "علی سرمدی",
+    "img": ""
+  },
+  "questions": [
+    {
+      "id": 1,
+      "subject": "مشکل در Auth در React",
+      "body": "سلام من میخوام یه authentication ساده تو  React  بسازم اما این رو بهم میده.نمیپونم مشکل از کجاست",
+      "create_at": "1700090199809",
+      "img": "",
+      "comments": [
         {
-            "id": 1,
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+          "full_name": "ascasc",
+          "body": "سلام من میخوام یه authentication ساده تو  React  بسازم اما این رو بهم میده.نمیپونم مشکل از کجاست",
+          "create_at": "1700090199809",
+          "like": 1,
+          "dislike": 1
         },
         {
-            "id": 2,
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+          "full_name": "ssc",
+          "body": "سلام من میخوام یه authentication ساده تو  React  بسازم اما این رو بهم میده.نمیپونم مشکل از کجاست",
+          "create_at": "1700090199809",
+          "like": 1,
+          "dislike": 1
         },
         {
-            "id": 3,
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+          "body": "ascacacascacasc",
+          "create_at": 1700129272840,
+          "full_name": "alisarmadi",
+          "like": 0,
+          "dislike": 0
+        },
+        {
+          "body": "acacascasc",
+          "create_at": 1700129565764,
+          "full_name": "alisarmadi",
+          "like": 2,
+          "dislike": 2
         }
-    ]
+      ]
+    }
+  ]
 }
